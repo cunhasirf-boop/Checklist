@@ -1,0 +1,144 @@
+✅ Task 3A Checklist – Greenfield Local Hub
+
+⸻
+
+🟢 1. Introduction (Set the context)
+
+⬜ Explain the purpose of Task 3A (gathering feedback)
+⬜ Mention iterative development (improving system using feedback)
+⬜ State that feedback will inform future improvements (Task 3B)
+
+💡 Top tip: Use phrases like “evaluate usability, functionality, and technical performance”
+
+⸻
+
+🟢 2. Feedback Plan (HOW you will collect feedback)
+
+👥 Audience
+
+⬜ Identify non-technical users (customers using your site)
+⬜ Identify technical users (people who understand code/systems)
+⬜ Explain why both are needed
+
+⸻
+
+🛠 Methods
+
+⬜ Survey (main method)
+⬜ User testing (people actually use your site)
+⬜ Optional: Interview (for deeper feedback)
+
+⬜ Justify your choices:
+
+* Survey = quantitative data
+* Testing = real interaction
+* Technical review = system quality
+
+⸻
+
+🟢 3. Survey Design (Evidence)
+
+⬜ Include 8–10 questions
+⬜ Mix of:
+
+* Ratings (1–5)
+* Yes/No
+* Open questions
+
+⬜ Cover ALL key features:
+
+* Navigation
+* Product browsing
+* Search
+* Cart & checkout
+* Loyalty system
+* Design
+
+💡 Top tip: Make sure questions link to your original requirements
+
+⸻
+
+🟢 4. Results (DATA – very important)
+
+⬜ State number of participants (e.g. 5 users)
+⬜ Include averages (e.g. 4.5/5)
+⬜ Summarise responses clearly
+
+⬜ Include:
+
+* Navigation rating
+* Search effectiveness
+* Checkout clarity
+* Loyalty understanding
+
+⬜ Identify common issues
+
+💡 Optional for top marks:
+⬜ Add charts/screenshots (put in appendix)
+
+⸻
+
+🟢 5. Analysis (🔥 MOST IMPORTANT SECTION)
+
+⬜ Explain what the results mean (not just what they are)
+
+⬜ Link feedback to system features:
+
+* “High navigation score shows good UI design”
+* “Lower checkout rating indicates usability issue”
+
+⬜ Include BOTH:
+
+* Strengths
+* Weaknesses
+
+⬜ Mention:
+
+* User experience (UX)
+* Technical limitations (e.g. no database validation)
+
+⸻
+
+🟢 6. Improvements (Link to Task 3B)
+
+⬜ Suggest real, specific improvements
+
+Examples:
+⬜ Improve checkout (validation + confirmation)
+⬜ Add backend login authentication
+⬜ Store orders in database
+⬜ Improve loyalty system visibility
+⬜ Add user feedback messages (e.g. “Added to cart”)
+
+💡 Top tip: Always link improvements to feedback:
+
+“Based on user feedback…”
+
+⸻
+
+🟢 7. Conclusion
+
+⬜ Summarise overall system performance
+⬜ Mention strengths (UI, browsing, design)
+⬜ Mention key limitations (backend, realism)
+⬜ State that feedback will guide future development
+
+⸻
+
+🟢 8. Appendix (Important!)
+
+⬜ Full survey questions
+⬜ Raw results or screenshots
+⬜ Optional charts/graphs
+
+⸻
+
+🔥 Distinction Checklist (FINAL CHECK)
+
+Before submitting, ask yourself:
+
+✅ Did I include technical AND non-technical feedback?
+✅ Did I use data (ratings, percentages)?
+✅ Did I analyse results (not just describe)?
+✅ Did I suggest real improvements linked to feedback?
+✅ Is everything clearly structured and professional?
